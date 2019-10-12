@@ -1,4 +1,4 @@
-# MS SQL solution
+-- MS SQL solution
 with CreatedChallenges (hacker_id, cnt)
 as
 (
